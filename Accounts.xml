@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataHolder>
+    <list>
+        <accountNumber>12345</accountNumber>
+        <availableBalance>31241.0</availableBalance>
+        <pin>password</pin>
+        <totalBalance>42141.0</totalBalance>
+    </list>
+    <list>
+        <accountNumber>21252</accountNumber>
+        <availableBalance>21242.0</availableBalance>
+        <pin>password</pin>
+        <totalBalance>32251.0</totalBalance>
+    </list>
+    <list>
+        <accountNumber>53212</accountNumber>
+        <availableBalance>13215.0</availableBalance>
+        <pin>password</pin>
+        <totalBalance>25251.0</totalBalance>
+    </list>
+    <list>
+        <accountNumber>32234</accountNumber>
+        <availableBalance>41122.0</availableBalance>
+        <pin>password</pin>
+        <totalBalance>52251.0</totalBalance>
+    </list>
+</dataHolder>
